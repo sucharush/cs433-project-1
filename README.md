@@ -28,18 +28,15 @@ pip install -r requirements.txt
 ### Datasets
 
 You can download the dataset [here](https://github.com/epfml/ML_course/blob/master/projects/project1/data/dataset.zip).
-Extract all files and move into a new folder `./data` in the base dir. We do not include full dataset in the repository
-because of the large size of dataset.
+Extract all files and move into a new folder `./data` in the base dir. We do not include full dataset in the repository because of the large size of dataset.
 
 ### Result
 
-## Performance
-
-|                | Accuracy (%) | Precision (%) | Recall (%) | F1-score (%) |
-|----------------|--------------|---------------|------------|--------------|
-| Training       | 0            | 0             | 0          | 0            |
-| Validation     | 0            | 0             | 0          | 0            |
-| Test (AIcrowd) | 0            | 0             | 0          | 0            |
+|                | Accuracy (%) | F1-score (%) |
+| -------------- | ------------ | ------------ |
+| Training       | 0.425        | 0.868        |
+| Validation     | 0.423        | 0.866        |
+| Test (AIcrowd) | 0.883        | 0.432        |
 
 ## Project Organization
 
